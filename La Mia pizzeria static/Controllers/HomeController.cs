@@ -20,7 +20,6 @@ namespace La_Mia_pizzeria_static.Controllers
         }
 
         [HttpGet]
-        
         public IActionResult Menù()
         {
             return View();
